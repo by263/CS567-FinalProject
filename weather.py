@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 class WeatherAggregator:
     def __init__(self):
         self.weather_data = []
@@ -204,4 +204,4 @@ class WeatherAggregator:
 
     def is_empty(self):
         return not self.weather_data
->>>>>>> 942b3f3242510e7a7d03697a03055b0b073e9ca5
+
